@@ -1,11 +1,11 @@
-@charset "utf-8";
 
 
-.navbar .navbar-default .custom {
+
+.navbar .navbar-default {
   margin-bottom: 0;
 }
 
 
-.carousel-inner custom {
+.carousel-inner {
   height: 500px;
 }
