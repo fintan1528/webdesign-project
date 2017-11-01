@@ -23,6 +23,8 @@ body {
 }
 
 @media only screen and (max-width: 840px) {
+  
+  .carousel-inner .item .center-block {
   height: auto;
   }
 }
