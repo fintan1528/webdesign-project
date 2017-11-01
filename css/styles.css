@@ -1,7 +1,17 @@
+/* CSS File for all css and overwrite of bootstrap css file */
+
+html {
+  font-family: 'Raleway', sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
 
 
-
-.navbar .navbar-default {
+.navbar {
   margin-bottom: 0;
 }
 
