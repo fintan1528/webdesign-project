@@ -22,6 +22,22 @@ body {
     height: 550px;
 }
 
+.top-menu {
+  width: 100%
+  display: inline-block;
+  background-color: #75b843;
+}
+
+.top-menu-items {
+  display: block;
+  width: 100%;
+}
+
+.top-menu ul>li {
+  float: left;
+  width: 20px;
+}
+
 @media only screen and (max-width: 840px) {
   
   .carousel-inner .item .center-block {
