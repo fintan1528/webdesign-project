@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+.top-menu a {
+  color: #fff;
+}
+
 .top-menu-items {
   display: inline-block;
   width: 100%;
