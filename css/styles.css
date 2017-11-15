@@ -49,7 +49,7 @@ body {
   display: inline-block;
   width: 100%;
   text-align: center;
-  
+  padding: 50px 10px;
 }
 
 .container-custom {
