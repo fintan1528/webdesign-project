@@ -59,6 +59,13 @@ body {
   width: 100%;
 }
 
+.container-home {
+  background-color: #f2f2f2;
+  display: inline-block;
+  width: 100%;
+}
+
+
 .container-new {
     display: inline-block;
     width: 100%;
@@ -116,6 +123,8 @@ body {
         border-top-color: #EEEEEE;
     }
 
+/* Footer --------------------------------- */
+
 /* Social Icons*/
 
 .social-icons {
@@ -131,6 +140,19 @@ body {
     font-size: 2.4rem;
     list-style-type: none;
 }
+
+.map-padding {
+  padding-bottom: 40px;
+}
+
+ul.new-list {
+  list-style-type: none;
+}
+
+.footer-pic {
+  max-height: 250px;
+}
+
 
 @media only screen and (max-width: 840px) {
   
