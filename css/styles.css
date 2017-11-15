@@ -57,12 +57,16 @@ body {
   background: url();
   display: inline-block;
   width: 100%;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
 .container-home2 {
   background-color: #f2f2f2;
   display: inline-block;
   width: 100%;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
 
