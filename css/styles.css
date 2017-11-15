@@ -17,6 +17,11 @@ body {
   margin-bottom: 0;
 }
 
+.navbar-default {
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 .carousel-inner .item .center-block {
     width: 100%;
