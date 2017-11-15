@@ -157,6 +157,15 @@ ul.new-list {
   max-height: 250px;
 }
 
+#footer-top {
+      background-color: #332f2a;
+      padding: 40px 0;
+}
+
+#footer-bottom {
+     background-color: #201d19;
+    padding: 40px 0;
+}
 
 @media only screen and (max-width: 840px) {
   
