@@ -44,6 +44,20 @@ body {
   padding: 10px 10px 0 10px;
 }
 
+.container-home {
+  background: url();
+  display: inline-block;
+  text-align: center;
+  
+}
+
+.container-custom {
+  display: inline-block;
+  width: 100%;
+  max-width: 1170px;
+}
+
+
 @media only screen and (max-width: 840px) {
   
   .carousel-inner .item .center-block {
