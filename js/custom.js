@@ -1,4 +1,4 @@
-
+/*! Custom js file is best practice in case bootstrap files are updated later  */
 
 function toggleIcon(e) {
     $(e.target)
