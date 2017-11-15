@@ -55,7 +55,7 @@ body {
 .container-custom {
   display: inline-block;
   width: 100%;
-  max-width: 1140px;
+  max-width: 1180px;
   text-align: center;
   padding: 50px 20px;
 }
@@ -63,7 +63,7 @@ body {
 .container-custom2 {
   display: inline-block;
   width: 100%;
-  max-width: 1180px;
+  max-width: 1140px;
   text-align: center;
   padding: 50px 20px;
 }
