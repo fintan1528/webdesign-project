@@ -50,14 +50,22 @@ body {
   background: url();
   display: inline-block;
   width: 100%;
-  text-align: center;
-  padding: 50px 10px;
 }
 
 .container-custom {
   display: inline-block;
   width: 100%;
   max-width: 1170px;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.container-custom2 {
+  display: inline-block;
+  width: 100%;
+  max-width: 1140px;
+  text-align: center;
+  padding: 50px 20px;
 }
 
 /* Accordian tabs -------- */
