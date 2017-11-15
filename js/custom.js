@@ -1,4 +1,4 @@
-/*! Custom js file is best practice in case bootstrap files are updated later  */
+/*! Custom js file in case bootstrap files are updated later  */
 
 function toggleIcon(e) {
     $(e.target)
@@ -8,7 +8,8 @@ function toggleIcon(e) {
 }
 $('.panel-group').on('hidden.bs.collapse', toggleIcon);
 $('.panel-group').on('shown.bs.collapse', toggleIcon);
-}
+
+
 
 (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
