@@ -129,6 +129,14 @@ body {
 
 /* Footer --------------------------------- */
 
+.container-footer {
+  display: inline-block;
+  width: 100%;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+
 /* Social Icons*/
 
 .social-icons {
