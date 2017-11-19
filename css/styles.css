@@ -162,8 +162,16 @@ body {
     list-style-type: none;
 }
 
+ul.new-list1 li::before {
+    content: "\f105";
+}
 
-ul.new-list {
+ul.new-list1 {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.new-list2 {
   list-style-type: none;
   padding-left: 0;
 }
