@@ -204,25 +204,25 @@ ul.new-list2 {
 #footer-top {
       background-color: #332f2a;
       padding: 40px 0;
-      color: #ccc;
+      color: #9c9c9c;
       font-size: 18px;
       font-size: 1.8rem;
 }
 
 #footer-top a {
-  color: #ccc;
+  color: #9c9c9c;
 }
 
 #footer-top h4 {
   font-size: 25px;
    font-size: 2.5rem;
-  color: #828282;
+  color: #6f6d6d;
 }
 
 #footer-bottom {
      background-color: #201d19;
      padding: 25px 0;
-     color: #ccc;
+     color: #9c9c9c;
      font-size: 18px;
      font-size: 1.8rem;
 }
