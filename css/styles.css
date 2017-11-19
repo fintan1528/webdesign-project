@@ -160,9 +160,10 @@ i.arrow {
 i.customicon {
   font-size: 18px;
   font-size: 1.8rem;
-  border: 1px solid #fff;
+  border: 1px solid #ccc;
   padding: 5px;
   width: 50px;
+  text-align: center;
 }
 
 .social-icons ul>li {
@@ -177,11 +178,15 @@ i.customicon {
 ul.new-list1 {
   list-style-type: none;
   padding-left: 0;
+  line-height: 35px;
+  line-height: 3.5rem;
 }
 
 ul.new-list2 {
   list-style-type: none;
   padding-left: 0;
+  line-height: 35px;
+  line-height: 3.5rem;
 }
 
 .footer-pic {
@@ -201,7 +206,7 @@ ul.new-list2 {
   color: #ccc;
 }
 
-#footer-top h3 {
+#footer-top h4 {
   font-size: 25px;
    font-size: 2.5rem;
   color: #828282;
