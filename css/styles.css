@@ -184,22 +184,28 @@ ul.new-list2 {
 
 .footer-pic {
   max-height: 250px;
+  padding-top: 40px;
 }
 
 #footer-top {
       background-color: #332f2a;
       padding: 40px 0;
-      color: #fff;
+      color: #ccc;
 }
 
 #footer-top a {
-  color: #fff;
+  color: #ccc;
+}
+
+#footer-top h3 {
+  font-size: 25px;
+  color: #828282;
 }
 
 #footer-bottom {
      background-color: #201d19;
-     padding: 40px 0;
-     color: #fff;
+     padding: 25px 0;
+     color: #ccc;
 }
 
 
