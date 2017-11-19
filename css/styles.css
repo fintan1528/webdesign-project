@@ -53,42 +53,7 @@ body {
 
 /* Home page ------ */
 
-.container-home {
-  background: url();
-  display: inline-block;
-  width: 100%;
-  margin-left: -15px;
-  margin-right: -15px;
-}
 
-.container-home2 {
-  background-color: #f2f2f2;
-  display: inline-block;
-  width: 100%;
-}
-
-
-.container-new {
-    display: inline-block;
-    width: 100%;
-    text-align: center;
-}
-
-.container-custom {
-  display: inline-block;
-  width: 100%;
-  max-width: 1180px;
-  text-align: center;
-  padding: 50px 20px;
-}
-
-.container-custom2 {
-  display: inline-block;
-  width: 100%;
-  max-width: 1180px;
-  text-align: center;
-  padding: 50px 20px;
-}
 
 /* Accordian tabs -------- */
 
