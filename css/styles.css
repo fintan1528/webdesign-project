@@ -248,6 +248,13 @@ ul.new-list2 {
      font-size: 1.8rem;
 }
 
+@media only screen and (max-width: 1018px) {
+  
+  .col-sm-4 {
+    width: 100% !important;
+  }
+}
+
 
 @media only screen and (max-width: 840px) {
   
