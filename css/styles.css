@@ -137,7 +137,14 @@ body {
 
 /* Footer --------------------------------- */
 
-
+.container-footer {
+  width: 100%;
+  max-width: 1180px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 
 /* Social Icons*/
 
