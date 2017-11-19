@@ -10,6 +10,7 @@ body {
   margin: 0;
   font-family: 'Raleway', sans-serif;
    font-size: 18px; 
+   font-size: 1.8rem; 
 }
 
 .container-navsize {
@@ -62,6 +63,7 @@ body {
 .container-size1 {
   width: 100%;
   max-width: 1180px;
+  text-align: center;
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -156,8 +158,8 @@ i.arrow {
 }
 
 i.customicon {
-  font-size: 20px;
-  font-size: 2rem;
+  font-size: 18px;
+  font-size: 1.8rem;
   border: 1px solid #fff;
   padding: 5px;
   width: 50px;
@@ -166,8 +168,8 @@ i.customicon {
 .social-icons ul>li {
     display: inline-block;
     padding: 10px;
-    font-size: 20px;
-    font-size: 2rem;
+    font-size: 18px;
+    font-size: 1.8rem;
     list-style-type: none;
 }
 
@@ -191,8 +193,8 @@ ul.new-list2 {
       background-color: #332f2a;
       padding: 40px 0;
       color: #ccc;
-      font-size: 20rem;
-      font-size: 20rem;
+      font-size: 18rem;
+      font-size: 1.8rem;
 }
 
 #footer-top a {
@@ -209,8 +211,8 @@ ul.new-list2 {
      background-color: #201d19;
      padding: 25px 0;
      color: #ccc;
-     font-size: 20rem;
-     font-size: 20rem;
+     font-size: 18rem;
+     font-size: 1.8rem;
 }
 
 
