@@ -149,7 +149,13 @@ body {
   padding-left: 0;
 }
 
-.custom-icon {
+.fa .arrow {
+  color: #75b843;
+  font-size: 12px;
+  font-size: 1.2rem;
+}
+
+.fa .custom-icon {
   font-size: 12px;
   font-size: 1.2rem;
 }
@@ -162,9 +168,6 @@ body {
     list-style-type: none;
 }
 
-ul.new-list1 li::before {
-    content: "\f105";
-}
 
 ul.new-list1 {
   list-style-type: none;
