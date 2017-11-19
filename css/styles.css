@@ -12,6 +12,12 @@ body {
    font-size: 18px; 
 }
 
+.container-navsize {
+  width: 100%;
+  max-width: 1180px;
+  text-align: center;
+  margin: 0 auto;
+}
 
 .navbar {
   margin-bottom: 0;
