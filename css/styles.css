@@ -149,13 +149,13 @@ body {
   padding-left: 0;
 }
 
-.fa.arrow {
+i.arrow {
   color: #75b843;
   font-size: 12px;
   font-size: 1.2rem;
 }
 
-.fa.custom-icon {
+i.custom-icon {
   font-size: 12px;
   font-size: 1.2rem;
 }
