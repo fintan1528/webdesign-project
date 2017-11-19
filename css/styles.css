@@ -142,7 +142,7 @@ body {
 .social-icons {
     display: inline-block;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 .social-icons ul {
@@ -155,9 +155,12 @@ i.arrow {
   font-size: 1.2rem;
 }
 
-i.custom-icon {
-  font-size: 12px;
-  font-size: 1.2rem;
+i.customicon {
+  font-size: 20px;
+  font-size: 2rem;
+  border: 1px solid #fff;
+  padding: 5px;
+  width: 50px;
 }
 
 .social-icons ul>li {
