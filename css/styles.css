@@ -261,4 +261,8 @@ ul.new-list2 {
   .carousel-inner .item .center-block {
   height: auto;
   }
+  
+  .navbar {
+    text-align: left;
+}
 }
